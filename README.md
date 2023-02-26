@@ -12,6 +12,7 @@
 <h3 align="left">🤝🏻  Connect with Me</h3>
 <p align="left">
 <a href="https://twitter.com/tayyabsajjad123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayyabsajjad123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tayyab-sajjad-266166243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="tayyabsajjad123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🕸️ WEB DEV</h3>
