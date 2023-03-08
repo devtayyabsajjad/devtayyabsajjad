@@ -15,7 +15,10 @@
 
 <h3 align="left">🤝🏻  Connect with Me</h3>
 <p align="left">
-<a href="https://twitter.com/tayyabsajjad123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayyabsajjad123" height="30" width="40" /></a>
+<a href="https://twitter.com/devtayyabsajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayyabsajjad123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tayyab-sajjad-156ab2267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tayyab-sajjad-156ab2267" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090572775494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tayyab.sajjad.98837?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ch_tayyabsajjad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch_tayyabsajjad" height="30" width="40" /></a>
 
 </p>
 
