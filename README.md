@@ -1,6 +1,6 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Tayyab Sajjad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web Developer from Pakistan</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;WordPress Developer;IT - Professional;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
 </p>
@@ -9,25 +9,55 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab123630&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab123630" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 Currently working as FULL Stack Engineer.
+- 📌 One Rule:- Don't Repeat Yourself in Coding.
+- 👯 I’m looking to collaborate **with other content creators and developers.**
+- 😸 It’s good to learn from other’s mistakes, I wish people learn something from  me.
+- ⚡ Fun fact I am Funny.
+- 🤍 Love to learn new Technologies.
+- 💬 Ask me about React and Javascript.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 📫 How to reach me **devtayyabsajjad@gmail.com**.
+- 📞 Don't hesitate to reach out & let's connect and start a conversation.
+- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
 
-- 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devtayyabsajjad](https://github.com/devtayyabsajjad)
-- 💬 Ask me about **Web Development**
+## Tech Stack🛠️:
+<div align="left">
+  <a href="https://github.com/devtayyabsajjad">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,redux,php,mysql,figma,netlify,vscode,git,github,vscodeqt&perline=5" />
+  </a>
+</div>
 
-- 📫 How to reach me **devtayyabsajjad@gmail.com**
+ ## Connect with me🤝:
+<a href="https://www.linkedin.com/in/tayyab-sajjad-156ab2267/" target="_blank"><img src="https://img.shields.io/badge/-TayyabSajjad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:devtayyabsajjad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100090572775494&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-TayyabSajjad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ch_tayyabsajjad/" target="_blank"> <img src="https://img.shields.io/badge/-ch_tayyabsajjad-FFFC00?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/devtayyabsajjad" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://leetcode.com/devtayyabsajjad" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+<a target="_blank" href="https://www.buymeacoffee.com/devtayyabsajjad"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
 
-<h3 align="left">🤝🏻  Connect with Me</h3>
+ ## GitHub Analytics⚙️:
+
 <p align="left">
-<a href="https://twitter.com/devtayyabsajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtayyabsajjad" height="30" width="40" /></a>
+  <a href="https://github.com/devtayyabsajjad/">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
+  </a>
 </p>
+<p align="left">
+<a href="https://github.com/devtayyabsajjad/">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=github_dark" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtayyabsajjad&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtayyabsajjad&theme=github_dark" />
+</a>    
+</p> 
+<!-- <p align="left">
+  <a>
+ <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+ </a>
+</p> -->
 
-<h3 align="left">🕸️ WEB DEV</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<h3 align="left">⚙️ GitHub Analytics</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtayyabsajjad&show_icons=true&locale=en&layout=compact" alt="tayyab123630" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devtayyabsajjad&show_icons=true&locale=en" alt="tayyab123630" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&" alt="tayyab123630" /></p>
