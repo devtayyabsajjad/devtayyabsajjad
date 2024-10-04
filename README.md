@@ -1,6 +1,6 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
 <h1 align="center">Hi 👋, I'm Tayyab Sajjad</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;WordPress Developer;IT - Professional;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
 </p>
