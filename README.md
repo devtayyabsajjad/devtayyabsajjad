@@ -40,7 +40,7 @@
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=devtayyabsajjad&limit=5&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=devtayyabsajjad&limit=5&theme=midnight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
  ## GitHub Analytics⚙️:
