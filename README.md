@@ -37,12 +37,17 @@
 <a href="https://twitter.com/devtayyabsajjad" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://leetcode.com/devtayyabsajjad" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/devtayyabsajjad"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=devtayyabsajjad&limit=5&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
  ## GitHub Analytics⚙️:
 
 <p align="left">
   <a href="https://github.com/devtayyabsajjad/">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stars"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=midnight&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
 </p>
 <p align="left">
@@ -53,6 +58,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtayyabsajjad&theme=github_dark" />
 </a>    
 </p> 
+
 <!-- <p align="left">
   <a>
  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
