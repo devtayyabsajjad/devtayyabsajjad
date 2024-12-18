@@ -112,6 +112,7 @@ For me, it’s not just about being a developer—it’s about shaping the futur
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=midnight&hide_border=true" alt="GitHub Streak Stars"/>
   </a>
 </p>
+
 <p align="center">
 <a href="https://github.com/devtayyabsajjad/">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=github_dark" />
