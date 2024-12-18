@@ -31,8 +31,8 @@ For me, it’s not just about being a developer—it’s about shaping the futur
 - 🥇 **1st Place** in International Hackathon for developing cutting-edge solutions 🌍
 - 🥈 **2nd Place** in WordSprint Hackathon 5.0 🏅
 - 🌍 Competed in **Meta Hacker Cup 2024** and **Google Code Jam 2023** 🏔️
-- 💡 Created impactful projects in international hackathons 💻
- **EduNexus 2.0**, **Period Care**, and **Sehat Connect** 
+- 💡 Created impactful projects **EduNexus 2.0**, **Period Care**, and **Sehat Connect** in international hackathons 💻
+
 
 ---
 
