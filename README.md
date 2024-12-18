@@ -31,26 +31,51 @@ For me, it’s not just about being a developer—it’s about shaping the futur
 - 🥇 **1st Place** in International Hackathon for developing cutting-edge solutions 🌍
 - 🥈 **2nd Place** in WordSprint Hackathon 5.0 🏅
 - 🌍 Competed in **Meta Hacker Cup 2024** and **Google Code Jam 2023** 🏔️
-- 💡 Created impactful projects in **EduNexus 2.0**, **Period Care**, and **Sehat Connect** hackathons 💻
+- 💡 Created impactful projects in international hackathons 💻
+ **EduNexus 2.0**, **Period Care**, and **Sehat Connect** 
 
 ---
 
-## 💻 My Arsenal 🛠️
+## 💻 Tech Stack
 
-### 🌐 **Languages That Bring Ideas to Life**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Advanced-purple?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Proficient-orange?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ **Frameworks & Tools That Empower Me**
+### Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-![React](https://img.shields.io/badge/React-Proficient-blue?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Advanced-green?style=for-the-badge&logo=redux&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-red?style=for-the-badge&logo=streamlit&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-Proficient-blue?style=for-the-badge&logo=wordpress&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233B94D9.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+### CMS
+![WordPress](https://img.shields.io/badge/WordPress-%2341A1F3.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
@@ -74,4 +99,28 @@ For me, it’s not just about being a developer—it’s about shaping the futur
 
 ---
 
-✨ **Not just writing code, but crafting solutions to reshape the world.** 🌍
+## 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=devtayyabsajjad&limit=5&theme=midnight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+
+ ## GitHub Analytics⚙️:
+
+<p align="center">
+  <a href="https://github.com/devtayyabsajjad/">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=midnight&hide_border=true" alt="GitHub Streak Stars"/>
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/devtayyabsajjad/">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=github_dark" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtayyabsajjad&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtayyabsajjad&theme=github_dark" />
+</a>    
+</p> 
+
+---
+
+<p align="center">✨ Not just writing code, but crafting solutions to reshape the world. 🌍</p>
