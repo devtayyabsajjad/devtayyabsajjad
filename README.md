@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi 👋, I'm Tayyab Sajjad ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack Developer💻;AI Enthusiast🤖;Hackathon Winner🏅;Always%20Learning%20and%20Improving!&font=Fira%20Code&center=true&width=440&height=45&color=0e75b6&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT Graduate🎓;Research Aspirant🚀;CALICO%20Fa'24;2%20x'Intel%20Hackathon%20Winner🥇;AI%20Enthusiast🤖;Hackathon%20Winner🏅;Always%20Learning%20and%20Improving!&font=Fira%20Code&center=true&width=440&height=45&color=0e75b6&vCenter=true&size=22&pause=1000">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
