@@ -1,69 +1,77 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
-<h1 align="center">Hi 👋, I'm Tayyab Sajjad</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h1 align="center">✨ Hi 👋, I'm Tayyab Sajjad ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;WordPress Developer;IT - Professional;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack Developer💻;AI Enthusiast🤖;Hackathon Winner🏅;Always%20Learning%20and%20Improving!&font=Fira%20Code&center=true&width=440&height=45&color=0e75b6&vCenter=true&size=22&pause=1000">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab123630&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab123630" /> </p>
-
-- 🔭 Currently working as FULL Stack Engineer.
-- 📌 One Rule:- Don't Repeat Yourself in Coding.
-- 👯 I’m looking to collaborate **with other content creators and developers.**
-- 😸 It’s good to learn from other’s mistakes, I wish people learn something from  me.
-- ⚡ Fun fact I am Funny.
-- 🤍 Love to learn new Technologies.
-- 💬 Ask me about React and Javascript.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **devtayyabsajjad@gmail.com**.
-- 📞 Don't hesitate to reach out & let's connect and start a conversation.
-- 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights.
-
-
-## Tech Stack🛠️:
-<div align="left">
-  <a href="https://github.com/devtayyabsajjad">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,redux,php,mysql,figma,netlify,vscode,git,github,vscodeqt&perline=5" />
-  </a>
-</div>
-
- ## Connect with me🤝:
-<a href="https://www.linkedin.com/in/tayyab-sajjad-156ab2267/" target="_blank"><img src="https://img.shields.io/badge/-TayyabSajjad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:devtayyabsajjad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100090572775494&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-TayyabSajjad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/ch_tayyabsajjad/" target="_blank"> <img src="https://img.shields.io/badge/-ch_tayyabsajjad-FFFC00?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/devtayyabsajjad" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://leetcode.com/devtayyabsajjad" target="_blank"><img src="https://img.shields.io/badge/-devtayyabsajjad-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-<a target="_blank" href="https://www.buymeacoffee.com/devtayyabsajjad"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
-## 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=devtayyabsajjad&limit=5&theme=midnight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
- ## GitHub Analytics⚙️:
-
 <p align="left">
-  <a href="https://github.com/devtayyabsajjad/">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=midnight&hide_border=true" alt="GitHub Streak Stars"/>
-  </a>
+   <img src="https://komarev.com/ghpvc/?username=tayyab123630&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab123630" />
+
 </p>
-<p align="left">
-<a href="https://github.com/devtayyabsajjad/">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=github_dark" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtayyabsajjad&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtayyabsajjad&theme=github_dark" />
-</a>    
-</p> 
 
-<!-- <p align="left">
-  <a>
- <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
- </a>
-</p> -->
+---
 
+## 🌟 Who Am I?
 
+Just another tech enthusiast? Nah. I'm the guy who transforms **ideas into solutions**, **challenges into opportunities**, and **code into impact**. 🚀
 
+At 21, I've already secured **1st Place in an International Hackathon**, demonstrating that innovation, skill, and passion can break barriers. 🏆
+
+For me, it’s not just about being a developer—it’s about shaping the future through **creativity**, **dedication**, and **real-world problem-solving**. 🌟
+
+---
+
+## 🏆 My Journey So Far
+
+### ✨ From Novice to International Recognition ✨
+
+- 🥇 **1st Place** in International Hackathon for developing cutting-edge solutions 🌍
+- 🥈 **2nd Place** in WordSprint Hackathon 5.0 🏅
+- 🌍 Competed in **Meta Hacker Cup 2024** and **Google Code Jam 2023** 🏔️
+- 💡 Created impactful projects in **EduNexus 2.0**, **Period Care**, and **Sehat Connect** hackathons 💻
+
+---
+
+## 💻 My Arsenal 🛠️
+
+### 🌐 **Languages That Bring Ideas to Life**
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Advanced-purple?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Proficient-orange?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ **Frameworks & Tools That Empower Me**
+
+![React](https://img.shields.io/badge/React-Proficient-blue?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Advanced-green?style=for-the-badge&logo=redux&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-Proficient-blue?style=for-the-badge&logo=wordpress&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 🚀 Current Mission 🌟
+
+🎯 Crafting real-world solutions using **Data Science**, **Machine Learning**, and **cutting-edge technologies**.
+
+🤖 Pioneering innovative approaches to solve complex challenges.
+
+💻 Contributing actively to **open-source projects** and building impactful tools.
+
+---
+
+## 🌐 Let's Connect 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayyab%20Sajjad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tayyab-sajjad-156ab2267/)
+[![Email](https://img.shields.io/badge/Email-devtayyabsajjad-red?style=for-the-badge&logo=gmail)](mailto:devtayyabsajjad@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Tayyab%20Sajjad-black?style=for-the-badge&logo=github)](https://github.com/devtayyabsajjad)
+[![Twitter](https://img.shields.io/badge/Twitter-devtayyabsajjad-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devtayyabsajjad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-devtayyabsajjad-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/devtayyabsajjad)
+
+---
+
+✨ **Not just writing code, but crafting solutions to reshape the world.** 🌍
