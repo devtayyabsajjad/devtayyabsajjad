@@ -20,7 +20,7 @@ Just another tech enthusiast? Nah. I'm the guy who transforms **ideas into solut
 
 At 21, I've already secured **1st Place in an International Hackathon**, demonstrating that innovation, skill, and passion can break barriers. 🏆
 
-For me, it’s not just about being a developer—it’s about shaping the future through **creativity**, **dedication**, and **real-world problem-solving**. 🌟
+For me, it’s not just about being a developer, it’s about shaping the future through **creativity**, **dedication**, and **real-world problem-solving**. 🌟
 
 ---
 
