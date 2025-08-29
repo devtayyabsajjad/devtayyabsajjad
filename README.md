@@ -2,9 +2,7 @@
 
 <h1 align="center">🚀 Hi there, I'm Tayyab Sajjad! 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🏆+Harvard+CS50x+Puzzle+Day+Winner;🥇+4x+International+Hackathon+Champion;🎯+MIT+Contest+Top+1%25+Performer;🌟+UC+Berkeley+Calico+Medalist;🤖+AI+%26+ML+Engineer;💻+Full-Stack+Developer;🚀+Always+Building+%26+Innovating!&font=Fira%20Code&center=true&width=600&height=50&color=00d4aa&vCenter=true&size=20&pause=1000">
-</p>
+### 💻 Software Engineer | 🌐 Full Stack Developer | 🤖 AI & ML Engineer | ✨ GenAI Specialist | 🏆 4× Intel Hackathon Winner @lablab.ai | 🎓 CS50x Harvard Puzzle Day Winner | 🌍 Global Competitor
 
 <div align="center">
   
@@ -30,7 +28,7 @@ At 21, I've already made my mark on the global tech stage, from winning Harvard'
 
 ## 🏆 Elite Achievements & Recognition
 
-<div align="center">
+<div>
 
 ### 🎉 **Recent Victories** 🎉
 
@@ -41,7 +39,7 @@ At 21, I've already made my mark on the global tech stage, from winning Harvard'
 🏅 **Advent of Code 2024** - 36th place globally out of 252,800+ participants  
 🥉 **UC Berkeley Calico Fall 2024** - Bronze Medal, 133rd globally (Top 58%)
 
-<div align="center">
+<div>
 
 ### 🚀 **International Hackathon Dominance** 🚀
 
