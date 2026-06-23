@@ -6,7 +6,7 @@
 
 **I build intelligent systems that turn messy real-world problems into tools people actually use** — LLM-powered platforms, multi-agent workflows, and scalable backends.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=devtayyabsajjad&label=Profile%20Views&color=00d4aa&style=flat-square)](https://github.com/devtayyabsajjad)
+[![Hits](https://hits.sh/github.com/devtayyabsajjad.svg?style=flat-square&label=Profile%20Views&color=00d4aa&labelColor=555)](https://hits.sh/github.com/devtayyabsajjad/)
 [![GitHub followers](https://img.shields.io/github/followers/devtayyabsajjad?label=Followers&style=flat-square&color=00d4aa)](https://github.com/devtayyabsajjad)
 
 </div>
@@ -18,7 +18,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/My%C2%A0Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C43C4)](http://tayyabsajjad.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/devtayyabsajjad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](https://www.linkedin.com/in/tayyab-sajjad-156ab2267/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A52714)](mailto:devtayyabsajjad@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FF8C00)](https://leetcode.com/devtayyabsajjad)
 [![Lablab.ai](https://img.shields.io/badge/Lablab.ai-3B5998?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A2E6C)](https://lablab.ai/)
@@ -145,12 +145,12 @@
 ### 💭 Words I Build By
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."*
-> **- Steve Jobs**
+> **— Steve Jobs**
 
 > *"Failure is an option here. If things are not failing, you are not innovating enough."*
-> **- Elon Musk**
+> **— Elon Musk**
 
-> *"A focused fool beats a distracted genius - every single time."*
-
+> *"A focused fool beats a distracted genius — every single time."*
+> **— Tayyab Sajjad**
 
 </div>
