@@ -126,22 +126,19 @@
 
 ## ⚙️ GitHub Analytics
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devtayyabsajjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tayyab's GitHub stats" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtayyabsajjad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devtayyabsajjad&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+<p align="center">
+<a href="https://github.com/devtayyabsajjad">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=tokyonight" alt="Tayyab Sajjad's GitHub contribution overview" />
+  </a>
+</p> <p align="center">
+  <a href="https://github.com/devtayyabsajjad?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtayyabsajjad&theme=tokyonight" alt="Tayyab Sajjad's top languages by repository" />
+  </a>
+</p> <p align="center">
+  <a href="https://github.com/devtayyabsajjad?tab=overview">
+    <img src="./profile/streak.svg" alt="Tayyab Sajjad's GitHub contribution streak" />
+  </a>
+</p>
 
 ---
 
