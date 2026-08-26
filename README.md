@@ -127,14 +127,18 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/devtayyabsajjad">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=tokyonight" alt="Tayyab Sajjad's GitHub contribution overview" />
+  <a href="https://github.com/devtayyabsajjad">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devtayyabsajjad&theme=github_dark" alt="Tayyab Sajjad's GitHub contribution overview" />
   </a>
-</p> <p align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/devtayyabsajjad?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtayyabsajjad&theme=tokyonight" alt="Tayyab Sajjad's top languages by repository" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtayyabsajjad&theme=github_dark" alt="Tayyab Sajjad's top languages by repository" />
   </a>
-</p> <p align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/devtayyabsajjad?tab=overview">
     <img src="./profile/streak.svg" alt="Tayyab Sajjad's GitHub contribution streak" />
   </a>
